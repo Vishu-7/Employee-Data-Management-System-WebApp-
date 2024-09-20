@@ -19,4 +19,4 @@ This repository contains the code for the **Employee Data Management System** de
 
 1. Clone the repository:
    ```bash
-  https://github.com/Vishu-7/Employee-Data-Management-System-WebApp-.git
+   github.com/Vishu-7/Employee-Data-Management-System-WebApp-.git
